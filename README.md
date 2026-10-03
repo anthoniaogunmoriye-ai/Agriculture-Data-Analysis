@@ -1,4 +1,5 @@
 # Agriculture Data Analysis Project
+#Agricultural data analysis project using Excel for data cleaning and Power BI for dashboard development.
 
 ## Project Overview
 This project focuses on cleaning and analyzing agricultural data and creating an interactive dashboard to present key insights.
